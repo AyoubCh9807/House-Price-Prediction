@@ -66,6 +66,7 @@ Space (sqft)	Bedrooms	Age (years)	Price ($K)
 -Connecting all parts into a working desktop app
 
 📂 Future Improvements
+
 -Load/save data from CSV or JSON
 
 -Add error bars or confidence intervals
