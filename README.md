@@ -2,14 +2,6 @@
 
 A desktop application built with **PySide6** that predicts house prices based on user input using **Linear Regression (scikit-learn)**. The app takes house features like **space (sqft)**, **number of bedrooms**, and **age (years)**, trains a model with your data, and predicts the price of a new house based on those features. It also **visualizes the results using Matplotlib**.
 
----
-
-## 📸 Preview
-
-![App Screenshot Placeholder](https://via.placeholder.com/500x300.png?text=Insert+App+Screenshot+Here)
-
----
-
 ## 🧠 Features
 
 - Input multiple house listings and their features
