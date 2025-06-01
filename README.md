@@ -54,6 +54,7 @@ Space (sqft)	Bedrooms	Age (years)	Price ($K)
 1000	2	30	250
 
 ✅ What I Learned
+
 -Building GUIs with PySide6
 
 -Collecting and validating user input
